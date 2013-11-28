@@ -1,3 +1,7 @@
+# Debug and Release folder
+Debug
+Release
+
 # Compiled Object files
 *.slo
 *.lo
